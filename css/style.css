@@ -119,7 +119,7 @@ h1 {
     transition: all 0.3s ease;
 }
 
-.facebook-btn {
+.snapchat-btn {
     display: none;
     padding: 15px 40px;
     background: violet;
@@ -132,7 +132,7 @@ h1 {
     width: fit-content;
 }
 
-.facebook-btn:hover {
+.snapchat-btn:hover {
     transform: translateY(-3px);
     box-shadow: 0 6px 20px violet;
 }
@@ -220,4 +220,5 @@ h1 {
     .buttons {
         margin-bottom: 10px;
     }
+
 }
